@@ -1,0 +1,6 @@
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/obj/x86/Debug/Music-Playlist-Analyzer.csprojAssemblyReference.cache
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/obj/x86/Debug/Music-Playlist-Analyzer.csproj.CoreCompileInputs.cache
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/bin/Debug/Music-Playlist-Analyzer.exe
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/bin/Debug/Music-Playlist-Analyzer.pdb
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/obj/x86/Debug/Music-Playlist-Analyzer.exe
+/Users/qjcbq2/Projects/Music-Playlist-Analyzer/Music-Playlist-Analyzer/obj/x86/Debug/Music-Playlist-Analyzer.pdb
